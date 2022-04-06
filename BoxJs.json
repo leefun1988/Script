@@ -2,11 +2,11 @@
     "name": "QX Scripts All",
     "description": "QX Task Gallery by LeeFun",
     "task": [
-        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/task/master/52pj.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/baidutieba.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/task/master/tieba.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/JD.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/IQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/91.js, tag=91, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
-        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/banana.js, tag=香蕉视频, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/52pojie.js, tag=吾爱破解, img-url=https://github.com/leefun1988/picture/raw/main/52pj.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/baidutieba.js, tag=百度贴吧, img-url=https://github.com/leefun1988/picture/raw/main/tieba.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/JD.js, tag=京东, img-url=https://github.com/leefun1988/picture/raw/main/jd.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/IQIYI.js, tag=爱奇艺, img-url=https://github.com/leefun1988/picture/raw/main/iQIYI.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/91.js, tag=91, img-url=https://github.com/leefun1988/picture/raw/main/91.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/leefun1988/Script/main/QX/banana.js, tag=香蕉视频, img-url=https://github.com/leefun1988/picture/raw/main/banana.png, enabled=false",
             ]
 }
